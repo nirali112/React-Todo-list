@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  flex-direction: 'column';
+  margin: auto;
+  }
+
+.App-header {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.Todo-input {
+  flex-direction: 'column';
+  
+}
+
+.text {
+  color: 'blue',
+}
+
+.Todo-item {
+  padding: 5px;
+  margin: auto;
+  margin-top: 5px;
+  border: 1px solid blue;
+  display: flex;
+  width: 300px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Item-option {
+  display: flex;
+  flex-direction: row;
+}
+
+.text {
+  padding-left: 10px;
+  cursor: pointer;
+  margin: 5px;
+}
