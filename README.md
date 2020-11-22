@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is hosted in Netlify platform : https://myreact-todo-list-app.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
