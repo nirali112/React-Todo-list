@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project has been deployed in Netflify : https://myreact-todo-list-app.netlify.app/
 
-The project is hosted in Netlify platform : https://myreact-todo-list-app.netlify.app/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
